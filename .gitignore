@@ -1,4 +1,7 @@
-# chef files
+# Ignore ohai files
+nodes
+
+# Ignore chef files
 .vagrant
 Berksfile.lock
 *~
